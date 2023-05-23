@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.cursoandroidstudio.listadetarefas.activity.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="Créditos"
+        android:theme="@style/Theme.ListaDeTarefas"
+        android:titleTextColor="@color/black"
+        app:showAsAction="never" />
+</menu>

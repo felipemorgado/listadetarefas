@@ -7,8 +7,8 @@ No App Lista de Tarefas você pode adicionar novas tarefas, excluir e editar as 
 ## 🛠️ Tecnologias
 Abaixo são as ferramentas que foram utilizadas:
 
-* [Android Studio](https://www.java.com/pt-BR/](https://developer.android.com/studio)
-* * [Java](https://www.java.com/pt-BR/](https://developer.android.com/studio/intro?hl=pt-br)
+* [Android Studio](https://developer.android.com/studio/)
+* * [Java](https://developer.android.com/studio/intro?hl=pt-br)
 * * [SQLIte](https://developer.android.com/training/data-storage/sqlite?hl=pt-br)
 
 ---
